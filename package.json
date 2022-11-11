@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "browser": "./browser/specific/main.js",
-  "description": "Fast, Convenient Linear Algebra Computation and Visualization library in Typescript",
+  "description": "Fast Linear Algebra Computation and Visualization library in Typescript",
   "author": {
     "name": "Jonathan Choi",
     "url": "https://www.github.com/jonychoi"
