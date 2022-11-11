@@ -1,2 +1,2 @@
 # linear-ts
-Linear Algebra computation and visualization library for all in Typescript
+### Fast, Convenient Linear System Computation and Visualization library for All in Typescript
